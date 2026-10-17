@@ -1,0 +1,10 @@
+[
+  { "bookId": "B001", "themes": ["software-design", "best-practices", "refactoring", "clean-code"], "difficulty": "intermediate", "prerequisites": ["B005"], "leadsTo": ["B002", "B013", "B004"], "tags": ["coding", "oop", "agile"] },
+  { "bookId": "B002", "themes": ["programming-philosophy", "best-practices", "career-growth"], "difficulty": "intermediate", "prerequisites": [], "leadsTo": ["B003", "B004"], "tags": ["coding", "productivity"] },
+  { "bookId": "B003", "themes": ["design-patterns", "oop", "software-architecture"], "difficulty": "advanced", "prerequisites": ["B001", "B002"], "leadsTo": ["B004"], "tags": ["patterns", "oop"] },
+  { "bookId": "B004", "themes": ["software-architecture", "clean-code", "system-design"], "difficulty": "advanced", "prerequisites": ["B001", "B003"], "leadsTo": [], "tags": ["architecture", "design"] },
+  { "bookId": "B005", "themes": ["python", "programming-basics", "beginner"], "difficulty": "beginner", "prerequisites": [], "leadsTo": ["B001", "B006", "B008"], "tags": ["python", "beginner"] },
+  { "bookId": "B006", "themes": ["machine-learning", "python", "data-science"], "difficulty": "intermediate", "prerequisites": ["B005"], "leadsTo": ["B007", "B008"], "tags": ["ml", "python", "data"] },
+  { "bookId": "B007", "themes": ["deep-learning", "neural-networks", "ai"], "difficulty": "advanced", "prerequisites": ["B006"], "leadsTo": [], "tags": ["dl", "ai", "neural-networks"] },
+  { "bookId": "B008", "themes": ["data-science", "statistics", "python"], "difficulty": "beginner", "prerequisites": ["B005"], "leadsTo": ["B006", "B007"], "tags": ["data", "statistics"] }
+]

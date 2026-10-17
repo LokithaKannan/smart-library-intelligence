@@ -1,0 +1,44 @@
+[
+  {
+    "studentId": "S001",
+    "name": "Rahul Sharma",
+    "email": "rahul@college.edu",
+    "department": "Computer Science",
+    "issuedBooks": [
+      "B003"
+    ],
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "studentId": "S002",
+    "name": "Priya Nair",
+    "email": "priya@college.edu",
+    "department": "Data Science",
+    "issuedBooks": [],
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "studentId": "S003",
+    "name": "Arjun Patel",
+    "email": "arjun@college.edu",
+    "department": "Electronics",
+    "issuedBooks": [],
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "studentId": "S004",
+    "name": "Sneha Reddy",
+    "email": "sneha@college.edu",
+    "department": "Computer Science",
+    "issuedBooks": [],
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "studentId": "S005",
+    "name": "Vikram Singh",
+    "email": "vikram@college.edu",
+    "department": "Mechanical",
+    "issuedBooks": [],
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "bookId": "B001",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technology",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "isbn": "978-0132350884",
+    "description": "A handbook of agile software craftsmanship",
+    "publishedYear": 2008
+  },
+  {
+    "bookId": "B002",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Technology",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "isbn": "978-0135957059",
+    "description": "Your journey to mastery",
+    "publishedYear": 2019
+  },
+  {
+    "bookId": "B003",
+    "title": "Design Patterns",
+    "author": "Gang of Four",
+    "genre": "Technology",
+    "totalCopies": 2,
+    "availableCopies": 1,
+    "isbn": "978-0201633610",
+    "description": "Elements of reusable object-oriented software",
+    "publishedYear": 1994
+  },
+  {
+    "bookId": "B004",
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "genre": "Technology",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "isbn": "978-0134494166",
+    "description": "A craftsman guide to software structure",
+    "publishedYear": 2017
+  },
+  {
+    "bookId": "B005",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "genre": "Technology",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "isbn": "978-1593279288",
+    "description": "A hands-on introduction to programming",
+    "publishedYear": 2019
+  },
+  {
+    "bookId": "B006",
+    "title": "Introduction to Machine Learning",
+    "author": "Andreas Muller",
+    "genre": "Data Science",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "isbn": "978-1449369415",
+    "description": "ML fundamentals with Python",
+    "publishedYear": 2016
+  },
+  {
+    "bookId": "B007",
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "genre": "Data Science",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "isbn": "978-0262035613",
+    "description": "The definitive deep learning textbook",
+    "publishedYear": 2016
+  },
+  {
+    "bookId": "B008",
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "genre": "Data Science",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "isbn": "978-1492041139",
+    "description": "First principles with Python",
+    "publishedYear": 2019
+  },
+  {
+    "bookId": "B009",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "totalCopies": 5,
+    "availableCopies": 5,
+    "isbn": "978-0743273565",
+    "description": "A classic American novel",
+    "publishedYear": 1925
+  },
+  {
+    "bookId": "B010",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "isbn": "978-0061935466",
+    "description": "A story of racial injustice and childhood",
+    "publishedYear": 1960
+  },
+  {
+    "bookId": "B011",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Non-Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "isbn": "978-0062316097",
+    "description": "A brief history of humankind",
+    "publishedYear": 2011
+  },
+  {
+    "bookId": "B012",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "totalCopies": 4,
+    "availableCopies": 4,
+    "isbn": "978-0735211292",
+    "description": "Tiny changes remarkable results",
+    "publishedYear": 2018
+  },
+  {
+    "bookId": "B013",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "genre": "Technology",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "isbn": "978-0134757599",
+    "description": "Improving the design of existing code",
+    "publishedYear": 2018
+  },
+  {
+    "bookId": "B014",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "isbn": "978-0307887894",
+    "description": "How constant innovation creates successful businesses",
+    "publishedYear": 2011
+  },
+  {
+    "bookId": "B015",
+    "title": "Thinking Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "totalCopies": 2,
+    "availableCopies": 2,
+    "isbn": "978-0374533557",
+    "description": "The two systems that drive the way we think",
+    "publishedYear": 2011
+  }
+]

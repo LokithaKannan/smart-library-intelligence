@@ -1,0 +1,67 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --accent: #40E0D0;
+  --accent-glow: rgba(64, 224, 208, 0.15);
+  --accent-border: rgba(64, 224, 208, 0.25);
+  --bg: #060810;
+  --surface: #0D1117;
+  --surface2: #111827;
+  --border: #1a2235;
+  --border2: #222d42;
+  --text: #F0F4F8;
+  --muted: #6B7A99;
+  --muted2: #9AA5BE;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: var(--surface); }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+input, select, textarea, button { font-family: inherit; }
+
+input:focus, select:focus, textarea:focus {
+  border-color: var(--accent-border) !important;
+  box-shadow: 0 0 0 3px var(--accent-glow) !important;
+}
+
+/* Card component defaults */
+.sl-card {
+  background: #0D1117;
+  border: 1px solid #1a2235;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.sl-table-row-even { background: transparent; }
+.sl-table-row-odd { background: rgba(8,11,18,0.5); }
+
+.sl-btn-primary {
+  background: linear-gradient(135deg, #40E0D0, #0EA5E9);
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-weight: 700;
+  font-size: 13px;
+  cursor: pointer;
+  box-shadow: 0 0 16px rgba(64,224,208,0.2);
+  transition: all 0.2s;
+}
+
+.sl-input {
+  background: #080B12;
+  border: 1px solid #1a2235;
+  border-radius: 8px;
+  color: #fff;
+  padding: 10px 14px;
+  font-size: 13.5px;
+  outline: none;
+  width: 100%;
+}
